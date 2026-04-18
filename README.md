@@ -33,7 +33,6 @@ public class Ragil : GameDeveloper
     public string[] Skills  = { "C#", "C++", "Game Design", "Gameplay Programming" };
 
     public string CurrentFocus => "Building immersive & polished game experiences";
-    public string Philosophy   => "Code is craft. Every frame matters.";
 
     void Start()
     {
