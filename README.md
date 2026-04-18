@@ -11,9 +11,9 @@
 <br/>
 
 <!-- Profile Views & Followers Badge -->
-![Profile Views](https://komarev.com/ghpvc/?username=YourGitHubUsername&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=rezufr&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS)
 &nbsp;
-[![GitHub followers](https://img.shields.io/github/followers/YourGitHubUsername?style=for-the-badge&color=7c3aed&labelColor=1e1b4b&label=FOLLOWERS)](https://github.com/YourGitHubUsername)
+[![GitHub followers](https://img.shields.io/github/followers/rezufr?style=for-the-badge&color=7c3aed&labelColor=1e1b4b&label=FOLLOWERS)](https://github.com/YourGitHubUsername)
 
 </div>
 
