@@ -5,7 +5,7 @@
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Crafting+Worlds%2C+One+Line+at+a+Time.;Unity+%7C+C%23+%7C+C%2B%2B+Developer;Turning+Ideas+into+Playable+Experiences;Game+Developer+from+Indonesia+%F0%9F%87%AE%F0%9F%87%A9" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=;Unity+%7C+C%23+%7C+C%2B%2B+Developer;Game+Developer+from+Indonesia+%F0%9F%87%AE%F0%9F%87%A9" alt="Typing SVG" />
 </a>
 
 <br/>
